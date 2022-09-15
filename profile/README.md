@@ -4,9 +4,4 @@ We are TopThiThu (aka. Top Thi Thử) that the platform is built to support stud
 
 ## Technical
 
-We are building the platform by trending & stable techniques like:
-
-- Backend: Nest.JS with Microservices, CQRS & Event Sourcing, Message Bus (kafka), etc...
-- Web: React.JS Micro-frontend, webpack federation, etc...
-- Mobile: FLutter with app modularization 
-- Landing & Others: Next.JS with Directus CMS
+We are building the platform by trending & stable techniques.
